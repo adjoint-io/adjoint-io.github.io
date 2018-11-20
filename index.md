@@ -8,6 +8,7 @@ All open source projects are released under a permissive BSD license.
 
 * [uplink](https://github.com/adjoint-io/uplink) - A distributed ledger for
   secure multiparty workflows in financial markets. 
+* [raft](https://github.com/adjoint-io/raft) - Raft consensus algorithm
 * [bulletproofs](https://github.com/adjoint-io/bulletproofs) - Bulletproofs are
   short non-interactive zero-knowledge proofs that require no trusted setup  
 * [merkle-tree](https://github.com/adjoint-io/merkle-tree) - Haskell library for
