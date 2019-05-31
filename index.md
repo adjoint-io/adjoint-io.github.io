@@ -11,6 +11,8 @@ All open source projects are released under a permissive BSD license.
 * [raft](https://github.com/adjoint-io/raft) - Raft consensus algorithm
 * [pairing](https://github.com/adjoint-io/pairing) - Optimal ate pairing over
   Barreto-Naehrig curves
+* [sonic](https://github.com/adjoint-io/sonic) - Zero-Knowledge SNARKs from
+  Linear-Size Universal and Updatable Structured Reference Strings
 * [bulletproofs](https://github.com/adjoint-io/bulletproofs) - Bulletproofs are
   short non-interactive zero-knowledge proofs that require no trusted setup  
 * [merkle-tree](https://github.com/adjoint-io/merkle-tree) - Haskell library for
