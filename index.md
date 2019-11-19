@@ -1,18 +1,23 @@
 ## Adjoint Open Source
 
 <em>
-[Adjoint](https://www.adjoint.com) builds secure distributed ledger solutions for modern financial markets.
+[Adjoint](https://www.adjoint.com) builds solutions to simplify and transform financial operations.
 </em>
 
 All open source projects are released under a permissive BSD license. 
 
 * [uplink](https://github.com/adjoint-io/uplink) - A distributed ledger for
   secure multiparty workflows in financial markets. 
-* [raft](https://github.com/adjoint-io/raft) - Raft consensus algorithm
 * [pairing](https://github.com/adjoint-io/pairing) - Optimal ate pairing over
   Barreto-Naehrig curves
 * [sonic](https://github.com/adjoint-io/sonic) - Zero-Knowledge SNARKs from
   Linear-Size Universal and Updatable Structured Reference Strings
+* [shamir](https://github.com/adjoint-io/shamir) - Shamir secret sharing
+* [elliptic-curve](https://github.com/adjoint-io/elliptic-curve) - Elliptic
+  Curves
+* [galois-fft](https://github.com/adjoint-io/galois-fft) - Finite field
+  polynomial arithmetic based on fast Fourier transforms
+* [galois-field](https://github.com/adjoint-io/galois-field) - Galois fields
 * [bulletproofs](https://github.com/adjoint-io/bulletproofs) - Bulletproofs are
   short non-interactive zero-knowledge proofs that require no trusted setup  
 * [merkle-tree](https://github.com/adjoint-io/merkle-tree) - Haskell library for
@@ -28,12 +33,6 @@ All open source projects are released under a permissive BSD license.
   protocols.
 * [double-ratchet](https://github.com/adjoint-io/double-ratchet) - Haskell
   library implementing the Open Whisper System double ratchet algorithm.
-* [pedersen-commitment](https://github.com/adjoint-io/pedersen-commitment) -
-  Haskell library implementing the Pedersen cryptographic commitment scheme.
-* [nanochain](https://github.com/adjoint-io/nanochain) - Haskell library
-  implementing a minimal educational blockchain.
-* [nanocoin](https://github.com/adjoint-io/nanocoin) - Haskell library
-  implementing a minimal educational cryptocurrency.
 * [datetime](https://github.com/adjoint-io/datetime) -
   Haskell library implementing the Adjoint datetime library, with datetime
   recurrence rules, and financial holiday calculations.
