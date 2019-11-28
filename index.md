@@ -12,6 +12,8 @@ All open source projects are released under a permissive BSD license.
   Barreto-Naehrig curves
 * [sonic](https://github.com/adjoint-io/sonic) - Zero-Knowledge SNARKs from
   Linear-Size Universal and Updatable Structured Reference Strings
+* [arithmetic-circuits](https://github.com/adjoint-io/arithmetic-circuits) -
+  Arithmetic circuits for zero knowledge proof systems
 * [shamir](https://github.com/adjoint-io/shamir) - Shamir secret sharing
 * [elliptic-curve](https://github.com/adjoint-io/elliptic-curve) - Elliptic
   Curves
